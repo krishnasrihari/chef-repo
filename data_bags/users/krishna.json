@@ -1,6 +1,6 @@
 {
 	"id":	"krishna",
-	"ssh_keys":	"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDwKdZogIseHj/KEptLntwpoAlt9JMkMfOjFZU+rCP8YXQRxZ8lcM03dFxD20TdSQc/5YBYiV1x5ar7I2y3i3E14hhO7XBiTeGk07pT2riqJWuW/fJsH9RZznbeBH+jjWPF6HlAOEl94/9oiTLztFK2cuPzub/xbtAlUqTOn1RXITC5RZj8EnIexhJD+fQ30SCXcyrPerO91hbHCDjOQF+it/PAT0mJxJiwQjKwsQ2MyU4CaUCt0gsNMwsKNi6mCc3ZoRPqi2lITPLyv4Inhnv6riLEQQEl+cjvYhWwNcwjdwu9SNWEzms82HZf+rn/N8arkUtHt5TWOi0nhXDBHtcn krishna.srihari@gmail.com",
+	"ssh_keys":	"ssh-rsa ....",
 	"groups": [ "sysadmin", "dba", "devops" ],
 	"uid": 2001,
 	"shell": "\/bin\/bash"
